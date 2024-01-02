@@ -1,2 +1,2 @@
 # public-repos
-Public repositories for personal projects
+Public repositories for projects done under The Odin Project
